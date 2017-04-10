@@ -6,8 +6,6 @@ const unSafeKey = [
 	'site.alipay.net'
 ];
 
-console.log()
-
 const cmdStr = `git grep -n -e ${unSafeKey.join(' -e ')} -- './*' ':!${require('path').basename(__filename)}'`;
 exec(cmdStr, function(err,stdout,stderr){
     if(err) {

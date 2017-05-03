@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * 2017
+	- [2017-04](doc/month-1704.md)
 	- [2017-03](doc/month-1703.md)
 	- [2017-02](doc/month-1702.md)
 	- [2017-01](doc/month-1701.md)

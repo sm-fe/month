@@ -43,9 +43,6 @@
 [PHP: The Right Way](http://www.phptherightway.com/)
 >stars过5000的开源项目，汇总了最全最新的php学习文档 @陈利飞(脊轩)
 
-[架构设计基础知识整理](https://www.atatech.org/articles/79988?flag_data_from=yuan)
->主要从设计模式和基本架构原则来描述。
-大家可以了解下 @莫智慧(烂叶)
 
 ## php
 
@@ -82,9 +79,7 @@
 >React组件开发性能优化技巧 @冯淼森(觅森)
 
 ## devOps
-                
-[基础设施即代码 -- DevOps 的下一步](https://www.atatech.org/articles/78505/?flag_data_from=mail_daily_recommend&uid=82632)
->基础设施即代码 -- DevOps 的下一步 @李译(哲欤)
+
                 
 [基于 GitLab 的团队协作模式 - 前生篇 - 知乎专栏](https://zhuanlan.zhihu.com/p/26908515?group_id=847460262536683521)
 >讲解了 svn 到 git 的演进过程 @王兴龙(蛋总)     

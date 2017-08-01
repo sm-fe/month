@@ -1,0 +1,37 @@
+{
+  "name": "sm-month",
+  "version": "1.0.0",
+  "description": "sm.cn technology monthly",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "preview": "gitbook serve",
+    "build": "gitbook build",
+    "deploy": "gitbook build && gulp deploy",
+    "check": "node check.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm-fe/month.git"
+  },
+  "keywords": [
+    "sm-month",
+    "bugu-month"
+  ],
+  "author": "hacke2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm-fe/month/issues"
+  },
+  "homepage": "https://github.com/sm-fe/month#readme",
+  "precommit": "check",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0",
+    "gitbook-plugin-disqus": "^0.1.0",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
+    "pre-commit": "^1.2.2"
+  }
+}
